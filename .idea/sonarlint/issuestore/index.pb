@@ -7,3 +7,7 @@ P
  tests/consent-management.test.ts,7/8/783f8cca98d01d49f59c2931d64e7c41c95061ed
 N
 contracts/data-collection.clar,8/e/8e0596740b3c1cadac393db7643b0ff43faaa29f
+K
+contracts/monetization.clar,4/1/41284f9804ca86597a5f66844e5d94846cfda008
+S
+#contracts/vehicle-verification.clar,4/e/4e9b89e7dd12e28763260a0a44684938eb5aeca2
